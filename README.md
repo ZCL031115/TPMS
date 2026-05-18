@@ -1,6 +1,6 @@
 # TPMS — 直接式汽车胎压监测系统
 
-基于 STM32F103C8T6 的胎压监测系统仿真原型，Proteus 8.17 + CubeMX + Keil MDK。
+基于 STM32F103C8T6 的胎压监测系统仿真原型，Proteus 9.0 + CubeMX + Keil MDK。
 
 ## 文件结构
 
