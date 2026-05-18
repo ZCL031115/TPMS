@@ -1,0 +1,34 @@
+# Claude
+.claude/
+
+# Keil build outputs
+*.o
+*.d
+*.crf
+*.lnp
+*.dep
+*.htm
+*.axf
+*.iex
+*.lst
+*.map
+*.build_log.htm
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+*.ini
+
+# Keil build folders
+MDK-ARM/
+DebugConfig/
+
+# CMSIS DSP (not used)
+Drivers/CMSIS/DSP/
+
+# CMSIS precompiled libs (not needed for source sharing)
+Drivers/CMSIS/Lib/
+
+# Proteus
+Project Backups/
+*.workspace
+*.epro2
