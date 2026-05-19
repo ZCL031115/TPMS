@@ -18,8 +18,7 @@
 JLinkLog.txt
 *.ini
 
-# Keil build folders
-MDK-ARM/
+# Keil debug config
 DebugConfig/
 
 # CMSIS DSP (not used)
