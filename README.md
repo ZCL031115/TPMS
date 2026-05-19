@@ -24,8 +24,10 @@ TPMS/
 │           ├── main.c           # 主程序（ADC采集、SPI从机）
 │           └── adc.c            # ADC1 单次转换配置
 │
-├── poteusProject/               # Proteus 仿真工程
+├── poteusProject/               # Proteus 9.0 仿真工程
 │   └── TPMS.pdsprj
+│
+├── ProPrj_TPMS_2026-05-18.epro2 # 立创EDA 原理图+PCB工程（实物版）
 │
 ├── 毕业设计文档.md               # 毕业论文
 └── README.md
